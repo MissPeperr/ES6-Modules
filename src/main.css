@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+#card-div{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.card{
+    margin: 25px;
+    text-align: center;
+    align-items: center;
+    max-width: 20%;
+    max-height: 10%;
+}
