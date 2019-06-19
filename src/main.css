@@ -16,3 +16,6 @@ body {
     max-width: 20%;
     max-height: 10%;
 }
+#create-card-btn{
+    font-size: 200px;
+}
